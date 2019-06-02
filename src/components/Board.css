@@ -1,0 +1,18 @@
+.Board{
+    display: flex;
+}
+.Head{
+    margin-left: 14px;
+    font-size: 30px;
+}
+.Player{
+    margin-left: 14px;
+    display: flex;
+}
+.Text{
+    font-weight: bold;
+}
+.IksOcko{
+    color:red;
+    font-weight: bold;
+}
